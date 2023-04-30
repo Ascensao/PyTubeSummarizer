@@ -22,8 +22,8 @@ The script requires the following libraries to be installed:
 - youtube_transcript_api
 - openai
 
- ```pip install requests beautifulsoup4 youtube_transcript_api openai
- ```
+ ```pip install requests beautifulsoup4 youtube_transcript_api openai ```
+
 
 
 ## Usage
